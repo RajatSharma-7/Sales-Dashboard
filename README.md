@@ -26,7 +26,7 @@ An interactive sales dashboard built with **Streamlit**, **Pandas**, and **Plotl
 ## 📸 Preview
 
 Dashboard Preview 1 --> https://github.com/RajatSharma-7/Sales-Dashboard/blob/main/preview%201.png
-Preview 2 --> https://github.com/RajatSharma-7/Sales-Dashboard/blob/main/preview%202.png
+          Preview 2 --> https://github.com/RajatSharma-7/Sales-Dashboard/blob/main/preview%202.png
 
 ---
 
